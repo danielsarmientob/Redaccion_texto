@@ -1,1 +1,0 @@
-"# Redaccion_texto" 
